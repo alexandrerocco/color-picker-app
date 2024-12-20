@@ -2,6 +2,10 @@
 
 A simple, interactive RGB color picker built with React and Tailwind CSS.
 
+## Demo
+
+Check out the live demo: [Color Picker App](https://alexandrerocco.github.io/color-picker-app/)
+
 ## Features
 
 - RGB color adjustment with sliders and numeric inputs
